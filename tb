@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teknoloji Bağımlılığı</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQV7Yj8CFf3RdJo09-D63XiZFlE2ZFN3TThA&s" alt="Image1">
+    
+    <!-- Inline stil ile h1 etiketi için stil belirledik -->
+    <h1>Teknoloji bağımlılığı</h1>
+    <h2>Bağımlılık Çeşitleri</h2>
+    <h3>Sosyal Medya ve Sosyalleşme Bağımlılığı</h3>
+    <p>İnsanlar sosyal medyada ve mesajlaşma uygulamalarında çok fazla zaman harcayarak gerçek dünyada geçirdikleri zamanı azaltabilirler. Dahası, bu durum haber ve mesaj güncellemelerine bağımlılığa yol açar.</p>
+    <h3>Bu Bağımlılığın Nasıl Önüne Geçeriz?</h3>
+    <ul>
+        <li>Sosyal medya kullanımınızı fark etmek: İlk adım, sosyal medyayı ne kadar ve ne sıklıkla kullandığınızı fark etmek. Telefonunuza
+             ya da uygulamalara özel izleme araçlarıyla ne kadar zaman harcadığınızı öğrenmek, sorunu anlamada yardımcı olabilir.</li>
+        <li>Sosyal medya amaçlarınızı belirlemek: Sosyal medyayı ne için kullandığınızı düşünün. Gerçekten değer
+        kattığı durumlarda kullanmaya ve amaçsızca vakit geçirdiğiniz zamanları sınırlamaya odaklanın.</li>
+        <li>Uygulama içi zaman sınırlamaları: Instagram, Facebook gibi platformlar,
+             günlük kullanım süresi sınırı belirleme özelliği sunar. Bu özelliği etkinleştirerek,
+              günlük belirlediğiniz sınırı aştığınızda hatırlatma alabilirsiniz.</li>
+        <li>Bildirimleri sınırlamak: Bildirimlerin sürekli dikkatinizi dağıtması sosyal medya kullanımını tetikler.
+            Önemli olmayan bildirimleri kapatarak yalnızca gerçekten önemli içeriklere odaklanabilirsiniz.</li>
+        <li>Sosyal medya arınma dönemleri: Belirli günler ya da saatler boyunca sosyal medyadan tamamen uzak
+            kalmayı deneyebilirsiniz. Hafta sonları, akşamları veya belirli bir saat diliminde sosyal medya
+            detoksu yaparak bağımlılığı azaltabilirsiniz.</li>
+        <li>Sosyal medya platformlarını kişiselleştirmek: Takip ettiğiniz kişileri ve içerikleri gözden geçirip
+            gerçekten size fayda sağlayan ya da pozitif etkisi olan hesapları takipte bırakabilirsiniz. 
+            Olumsuz içerikleri sınırlamak sosyal medya deneyiminizi iyileştirir.</li>
+        <li>Gerçek yaşam ilişkilerine odaklanmak: Sosyal medyadaki bağlantılar yerine yüz yüze iletişim kurmaya çalışmak,
+            sosyal medya bağımlılığını azaltabilir. Sosyal medya yerine arkadaşlarınızla dışarıda vakit geçirmek ya da 
+            bir etkinliğe katılmak, bağımlılık döngüsünü kırabilir.</li>
+        <li>Sosyal medyaya erişimi zorlaştırmak: Telefonunuzdaki sosyal medya uygulamalarını ana
+            ekranınızdan kaldırmak ya da cihazda derinlerde bir klasöre yerleştirmek, ulaşmayı 
+            zorlaştırarak kullanımı azaltabilir.</li>
+    </ul>
+</body>
+</html>
